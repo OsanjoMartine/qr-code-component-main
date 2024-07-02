@@ -29,7 +29,7 @@ Mobile View Screenshot\
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qr-code-component-main-kl98v7tei-osanjomartines-projects.vercel.app/)
 
 ## My process
 1. Downloaded the starter files
